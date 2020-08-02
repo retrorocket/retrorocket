@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrorocket" style="vertical-align:top"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrorocket" style="vertical-align:top;"/>
 </a>
 
 ## about me
