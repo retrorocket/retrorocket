@@ -3,14 +3,11 @@
 </a>
 
 ## about me
-
-* https://about.retrorocket.biz
+https://about.retrorocket.biz
 
 ## blog
-
-* https://retrorocket.biz  
-* https://qiita.com/retrorocket
+https://retrorocket.biz  
+https://qiita.com/retrorocket
 
 ## apps
-
-* https://retrorocket.biz/works
+https://retrorocket.biz/works
